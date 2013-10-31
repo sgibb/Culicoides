@@ -8,6 +8,9 @@ K. Uhlmann, S.Gibb, S. Kalkhof, U. Arroyo-Abad, C. Schulz,
 B. Hoffmann, F. Stubbins, S. Carpenter, M. Beer, M. von Bergen, R. Feltens. 2013.
 *Species determination of Culicoides biting midges using Shotgun Mass Mapping*. [submitted]
 
+Please find the dataset at http://dx.doi.org/10.6084/m9.figshare.801878 <br />
+(The dataset is downloaded by the `setup.R` script automatically.)
+
 ## Install
 
  - You have to install R (>= 3.0.0) for your operation system: http://cran.r-project.org/

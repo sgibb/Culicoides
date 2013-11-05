@@ -1,4 +1,4 @@
-# Species determination of Culicoides biting midges using Shotgun Mass Mapping
+# Species determination of Culicoides biting midges via peptide profiling using matrix-assisted laser desorption ionization mass spectrometry
 
 ## Introduction
 
@@ -6,7 +6,8 @@ This repository contains the complete [R](http://r-project.org) scripts to repro
 
 K. Uhlmann, S.Gibb, S. Kalkhof, U. Arroyo-Abad, C. Schulz,
 B. Hoffmann, F. Stubbins, S. Carpenter, M. Beer, M. von Bergen, R. Feltens. 2013.
-*Species determination of Culicoides biting midges using Shotgun Mass Mapping*. [submitted]
+*Species determination of Culicoides biting midges via peptide profiling using
+matrix-assisted laser desorption ionization mass spectrometry*. [submitted]
 
 Please find the dataset at http://dx.doi.org/10.6084/m9.figshare.801878 <br />
 (The dataset is downloaded by the `setup.R` script automatically.)

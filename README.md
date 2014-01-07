@@ -15,7 +15,7 @@ Please find the dataset at http://dx.doi.org/10.6084/m9.figshare.801878 <br />
 ## Install
 
  - You have to install R (>= 3.0.0) for your operation system: http://cran.r-project.org/
- - Download the R scripts: https://github.com/sgibb/UhlmannGibb2013/archive/master.zip
+ - Download the R scripts: https://github.com/sgibb/Culicoides/archive/master.zip
  - Start R and run the *setup.R* script (this is needed only for the first use):
 
 ```s
@@ -36,6 +36,6 @@ source("analysis.R")
 
 You are welcome to:
 
-* submit suggestions and bug-reports at: <https://github.com/sgibb/UhlmannGibb2013/issues>
+* submit suggestions and bug-reports at: <https://github.com/sgibb/Culicoides/issues>
 * compose an e-mail to: <mail@sebastiangibb.de>
 

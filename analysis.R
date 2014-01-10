@@ -439,14 +439,12 @@ dev.off()
 ## plot sda
 postscript(file.path(plotPath, "sda_species.eps"),
            width=twoColumnWidth, height=oneColumnWidth)
-plot(speciesRanking)
-title(ylab="m/z")
+plot(speciesRanking, ylab="m/z")
 dev.off()
 
 postscript(file.path(plotPath, "sda_group.eps"),
            width=twoColumnWidth, height=oneColumnWidth)
-plot(groupRanking)
-title(ylab="m/z")
+plot(groupRanking, ylab="m/z")
 dev.off()
 
 ## plot half decimal place rule

@@ -7,7 +7,7 @@ This repository contains the complete [R](http://r-project.org) scripts to repro
 K. R. Uhlmann, S.Gibb, S. Kalkhof, U. Arroyo-Abad, C. Schulz,
 B. Hoffmann, F. Stubbins, S. Carpenter, M. Beer, M. von Bergen, R. Feltens. 2013.
 *Species determination of Culicoides biting midges via peptide profiling using
-matrix-assisted laser desorption ionization mass spectrometry*. [submitted]
+matrix-assisted laser desorption ionization mass spectrometry*. https://doi.org/10.1186/1756-3305-7-392
 
 Please find the dataset at http://dx.doi.org/10.6084/m9.figshare.801878 <br />
 (The dataset is downloaded by the `setup.R` script automatically.)
